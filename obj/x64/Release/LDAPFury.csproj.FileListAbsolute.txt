@@ -1,0 +1,7 @@
+C:\Users\ritab\Project\LDAPFury\LDAPFury\bin\x64\Release\LDAPFury.exe.config
+C:\Users\ritab\Project\LDAPFury\LDAPFury\bin\x64\Release\LDAPFury.exe
+C:\Users\ritab\Project\LDAPFury\LDAPFury\bin\x64\Release\LDAPFury.pdb
+C:\Users\ritab\Project\LDAPFury\LDAPFury\obj\x64\Release\LDAPFury.csproj.AssemblyReference.cache
+C:\Users\ritab\Project\LDAPFury\LDAPFury\obj\x64\Release\LDAPFury.csproj.CoreCompileInputs.cache
+C:\Users\ritab\Project\LDAPFury\LDAPFury\obj\x64\Release\LDAPFury.exe
+C:\Users\ritab\Project\LDAPFury\LDAPFury\obj\x64\Release\LDAPFury.pdb
