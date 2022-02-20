@@ -13,4 +13,4 @@ Run the binary with two arguments:
 .\LDAPFury.exe "(&(objectCategory=user))" "name,cn,lastlogon,objectsid,pwdlastset"
 ```
 
-
+![](Pictures/making_ldap_queries.png)
